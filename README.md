@@ -1406,7 +1406,7 @@ _[⌨️ Magic Numbers ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-
 
 _[⌨️ Refactoring III: Mocking (continued) ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/refactoring-mocks-2)_
 
-## More Cheatcodes
+## More Cheatcodes.
 
 _[⌨️ More Cheatcodes ](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/foundr-tests-cheatcodes)_
 
@@ -1566,7 +1566,7 @@ _[⌨️ Recap ]()_
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Foundry Fundamentals Section 4: Foundry Smart Contract Lottery
+# Foundry Fundamentals Section 4: Foundry Smart Contract Lottery.
 
 _[⭐️ Section 4: Smart Contract Lottery](https://updraft.cyfrin.io/courses/foundry/smart-contract-lottery/introduction?lesson_format=video)_
 
