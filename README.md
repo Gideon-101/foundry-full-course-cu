@@ -2943,3 +2943,5 @@ Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cy
 [![Cyfrin LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/cyfrin-updraft/)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+I'm just wondering how long it took y'all to make this full course-i'm really curious about knowing.
